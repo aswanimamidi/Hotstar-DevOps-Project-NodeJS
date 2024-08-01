@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=argocd \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://13.126.53.44:9000 \
+  -Dsonar.login=85ee934ddd6903324e74793f04cc71e9166dce2a
